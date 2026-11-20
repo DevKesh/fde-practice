@@ -7,7 +7,7 @@
 
 # option A
 if 5 > 2:
-print("Five is greater than two!")
+    print("Five is greater than two!")
 
 # option B 
 if 5 > 2:
